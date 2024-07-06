@@ -1,0 +1,35 @@
+{
+    "menu":
+    [
+      {
+        "name": "Home",
+        "url": "#",
+        "submenu": []
+      },
+      {
+        "name": "Shop",
+        "url": "#",
+        "submenu": [
+          { "name": "Product List", "url": "#" },
+          { "name": "Checkout", "url": "#" },
+          { "name": "Cart", "url": "#" },
+          { "name": "Wishlist", "url": "#" }
+        ]
+      },
+      {
+        "name": "About",
+        "url": "#",
+        "submenu": []
+      },
+      {
+        "name": "Blog",
+        "url": "#",
+        "submenu": []
+      },
+      {
+        "name": "Contact",
+        "url": "#",
+        "submenu": []
+      }
+    ]
+  }

@@ -1,0 +1,25 @@
+{
+    "socialLinks":
+    [
+      {
+        "name": "facebook",
+        "url": "#",
+        "iconClass": "fa-brands fa-facebook-f"
+      },
+      {
+        "name": "twitter",
+        "url": "#",
+        "iconClass": "fa-brands fa-x-twitter"
+      },
+      {
+        "name": "instagram",
+        "url": "#",
+        "iconClass": "fa-brands fa-instagram"
+      },
+      {
+        "name": "youtube",
+        "url": "#",
+        "iconClass": "fa-brands fa-youtube"
+      }
+    ]
+}  

@@ -1,0 +1,15 @@
+{
+    "links":
+    [
+      {
+        "name": "Sign in",
+        "url": "#",
+        "iconClass": "fa-regular fa-user"
+      },
+      {
+        "name": "Join AI",
+        "url": "#",
+        "iconClass": "fa-solid fa-angle-right"
+      }
+    ]
+}  
